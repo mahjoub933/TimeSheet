@@ -1,0 +1,4 @@
+public void affecterClientItervention(long clientId, long interventionId) {
+		interventionservice.affecterClientItervention(clientId, interventionId);
+		
+	}
